@@ -1,4 +1,5 @@
 *
 !.gitignore
 !Laporan.docx
-!/Sumber
+!README.md
+!Sumber/
