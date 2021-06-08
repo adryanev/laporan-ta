@@ -1,0 +1,22 @@
+2b: S1, S1 terapan, S2, S2 Terapan, Doktor, Doktor Terapan
+3a5: 	D3, S1 Terapan (d4)
+3b4: S1, S2, S3
+3b5: S1, S1 terapan, S2, S2 Terapan, Doktor, Doktor Terapan
+3b6: D3, S1 Terapan, S2 Terapan, S3 Terapan
+6a: S1, S1 terapan, S2, S2 Terapan, Doktor, Doktor Terapan
+6b: S2, S2 Terapan, S3, S3 Terapan
+7: D3, S1, S1 Terapan
+8b2: D3, S1, S1 Terapan
+8c1: D3
+bc2: S1, S1 Terapan
+8c3: S2, S2 Terapan
+8c4: S3, S3 Terapan
+8d1: D3(8d1a), S1(8d1b), S1 Terapan(8d1c)
+8d2: D3, S1, S1 Terapan, S2, S2 Terapan
+8e1: D3, S1, S1 Terapan
+8e2: D3, S1, S1 Terapan, S2, S2 Terapan
+8f1a: S1, S2, S3
+8f1b: S1 Terapan, S2 Terapan, S3 Terapan
+8f2: S2, S2 Terapan, S3, S3 Terapan
+8f3: D3, S1 Terapan, S2 Terapan, S3 Terapan
+8f4: S1, S1 Terapan, S2, S2 Terapan, S3, S3 Terapan
