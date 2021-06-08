@@ -1,5 +1,7 @@
 *
 !.gitignore
 !Laporan.docx
+!Laporan-Hasil.docx
 !README.md
-!Sumber/*
+!**/Sumber/*
+!**/Diagram/*
